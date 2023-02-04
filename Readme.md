@@ -1,5 +1,5 @@
 
-# Technical Design Document
+# Technical Design Document 
 
 Gra zwana będzie Further Away The Edge !!!
 Gra: zręcznościowa 
@@ -24,6 +24,11 @@ W podobny sposób dodałęm znikającą podłogę, ktora znika po funkcji delay,
 Następnie dodałem power upa w postaci, super jumpa. Kiedy gracz zetknie się z colisią power upa, to dostaje ulepszony skok, aby przejść poziom na określony czas.
 Ostatecznie dodałem obrotowe sfery, na samym końcu nadając im ruch obrotowy Z velocity.
 
+## AUTORSTWO:
+
+MACIEJ NOWAK W58292
+
 # LINK DO PROJEKTU GRY !!!
 
 https://drive.google.com/file/d/1tlq9PPA4wpVsPExzQEWBt5yzGnNuJEQ9/view?usp=sharing
+
