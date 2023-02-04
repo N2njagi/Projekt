@@ -23,3 +23,7 @@ Następnie dodałem monetę, która w blueprinie zostaje zniszczona kiedy gracz 
 W podobny sposób dodałęm znikającą podłogę, ktora znika po funkcji delay, zeby gracz miał czas na wyskoczenie.
 Następnie dodałem power upa w postaci, super jumpa. Kiedy gracz zetknie się z colisią power upa, to dostaje ulepszony skok, aby przejść poziom na określony czas.
 Ostatecznie dodałem obrotowe sfery, na samym końcu nadając im ruch obrotowy Z velocity.
+
+# LINK DO PROJEKTU GRY !!!
+
+https://drive.google.com/file/d/1tlq9PPA4wpVsPExzQEWBt5yzGnNuJEQ9/view?usp=sharing
